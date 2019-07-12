@@ -66,8 +66,8 @@ h1{
 p{
 	font-family: "Comic Sans MS";
 	text-align:
-	margin-left: 5px;
-	letter-spacing: 2px;
+	
+	
 }
 
 #footer{
@@ -84,4 +84,24 @@ p{
 	font-family:  "Comic Sans MS";
 	font-size: 17px;
 }
+body {
+	background-color: powderblue;
+  }
+  h1 {
+	color: blue;
+  }
+  p {
+	color: red;
+  }
+  p {
+	border: 1px solid wheat;
+  }
+  p {
+	border: 1px solid wheat;
+	padding: 30px;
+  }
+  p {
+	border: 1px solid wheat;
+	margin: 50px;
+  }
 
