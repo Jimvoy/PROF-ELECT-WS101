@@ -6,3 +6,4 @@ function light(sw) {
     pic = "img/on.gif"
   }
   document.getElementById('myImage').src = pic;
+}
